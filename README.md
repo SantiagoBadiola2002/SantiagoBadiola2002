@@ -1,4 +1,4 @@
-## I am Santiago Badiola 👋
+## Hi, I am Santiago Badiola 👋
 
 <!--
 **SantiagoBadiola2002/SantiagoBadiola2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
