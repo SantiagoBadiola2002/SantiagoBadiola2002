@@ -4,7 +4,7 @@
 
 Sobre mí
 
-Soy Santiago Badiola García, un apasionado estudiante de Tecnólogo en Informática en la CETP-UTU de Maldonado. Desde mi ingreso en 2022, he estado desarrollando mis habilidades en diversas áreas de la informática, desde programación hasta administración de infraestructuras y sistemas operativos.
+Soy Santiago Badiola García, un apasionado estudiante de Tecnólogo en Informática en la UTEC - Universidad Tecnológica del Uruguay de Maldonado. Desde mis inicios en 2019, he estado desarrollando mis habilidades en diversas áreas de la informática, desde programación hasta administración de infraestructuras y sistemas operativos.
 
 📚 Educación
 
