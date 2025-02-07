@@ -18,7 +18,7 @@ Duración: 6 semestres
 
 Mención: Tecnólogo
 
------------
+--------
 
 Institución: UTU, Maldonado
 
